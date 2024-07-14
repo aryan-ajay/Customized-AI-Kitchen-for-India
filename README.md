@@ -3,6 +3,8 @@
 ## Overview
 Customized AI Kitchen for India is a web-based application designed to help users generate personalized recipes based on their specific preferences and available ingredients. Leveraging the power of React JS for the front-end and OpenAI for recipe generation, the platform aims to simplify meal planning and inspire culinary creativity. Users can input ingredients, select meal types, specify cuisine preferences, choose cooking time, and set the complexity level to receive tailored recipes that suit their needs.
 
+![Screenshot 2024-07-14 010035](https://github.com/user-attachments/assets/e7da7965-cf97-4399-ab86-4d98a67802a1)
+
 ## Objectives
 - **Personalized Recipe Generation**: Provide users with customized recipes that match their specific criteria, including available ingredients, meal types, cuisine preferences, cooking time, and complexity level.
 - **User-Friendly Interface**: Create a seamless and intuitive user experience with a responsive design, ensuring easy navigation and interaction.
