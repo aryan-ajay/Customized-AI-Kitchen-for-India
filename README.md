@@ -9,3 +9,13 @@ Customized AI Kitchen for India is a web-based application designed to help user
 - **Cultural Relevance**: Focus on recipes that cater to the diverse culinary preferences of Indian cuisine, while also offering a variety of international options.
 - **Integration with OpenAI**: Utilize OpenAI's powerful language model to generate detailed and accurate recipes that include step-by-step preparation and cooking instructions.
 - **Inspire Creativity**: Encourage users to experiment with new dishes and cooking techniques by providing innovative and diverse recipe suggestions.
+
+## Target Audience
+- **Home Cooks:** Individuals who enjoy cooking at home and are looking for new recipes to try, especially those who want to make the most of the ingredients they already have.
+- **Busy Professionals:** People with limited time who need quick and easy recipes that can be prepared within a specified timeframe.
+- **Cooking Enthusiasts:** Culinary enthusiasts who are eager to experiment with different cuisines and cooking styles, and who seek guidance on more complex recipes.
+- **Families:** Households that need meal ideas that cater to different tastes and dietary preferences, ensuring everyone can enjoy a delicious meal together.
+- **Health-Conscious Individuals:** Users who are focused on healthy eating and want to find recipes that align with their dietary goals and preferences.
+- **Novice Cooks:** Beginners in the kitchen who need straightforward and simple recipes to build their confidence and cooking skills.
+
+**Customized AI Kitchen for India aims to revolutionize the way people plan and prepare meals, making cooking an enjoyable and stress-free experience for users of all skill levels.**
